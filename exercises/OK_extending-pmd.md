@@ -23,3 +23,4 @@ Use your rule with different projects and describe you findings below. See the [
 
 ## Answer
 
+Here is a screenshot of the AST with the code: [screenshot](../exercises/extending-pmd.png)
